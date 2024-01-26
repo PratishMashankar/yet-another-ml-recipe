@@ -40,6 +40,6 @@ We'll be using Google Colab, a hassle-free platform for running Jupyter notebook
 ## Conclusion
 Congratulations! You've completed the Yet Another ML Recipe, laying a solid foundation in the realm of Machine Learning. Stay tuned for more data science experiments and delve deeper into the fascinating world of ML.
 
-For detailed code implementation, access the Colab notebook [here](Colab_notebook_link). Find the GitRepo for data and code [here](GitRepo_link). Connect with me on LinkedIn [here](LinkedIn_link). 
+For detailed code implementation, access the Colab notebook [here](https://colab.research.google.com/drive/1eMybK0DPJhl0_FkRBNocA98nJzJnwV_X?usp=sharing). Connect with me on LinkedIn [here](https://www.linkedin.com/in/pratish-mashankar/). 
 
 Happy learning and experimenting! 🚀
