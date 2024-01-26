@@ -1,7 +1,7 @@
 # Yet Another ML Recipe
 
 ## Introduction
-Welcome to Yet Another ML Recipe! In this guide, I'll walk you through a simple yet comprehensive approach to understanding the core concepts of Machine Learning (ML). Whether you're a novice developer taking your first steps into the world of ML or a seasoned professional seeking to deepen your knowledge, this guide is tailored for you. We'll be focusing on sentiment analysis, a fundamental task in ML, where we predict whether a given sentence expresses a positive or negative sentiment.
+Welcome to Yet Another ML Recipe! In this Medium guide, I'll walk you through a simple yet comprehensive approach to understanding the core concepts of Machine Learning (ML). Whether you're a novice developer taking your first steps into the world of ML or a seasoned professional seeking to deepen your knowledge, this guide is tailored for you. We'll be focusing on sentiment analysis, a fundamental task in ML, where we predict whether a given sentence expresses a positive or negative sentiment.
 
 ## Who Should Read This?
 This guide is designed for:
